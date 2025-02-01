@@ -1,0 +1,12 @@
+.navbar {
+  background: #100f0f;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 30px;
+  padding: 20px;
+}
