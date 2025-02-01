@@ -16,7 +16,7 @@ const App = () => {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/ReactAssi3">
       <div>
         {}
         <header className="navbar">
